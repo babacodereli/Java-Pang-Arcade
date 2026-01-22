@@ -11,9 +11,6 @@ A classic arcade shooter game clone (inspired by "Pang" / "Buster Bros") develop
 * **Physics Engine:** Custom gravity and collision logic for balloons and projectiles.
 * **GUI:** Built with Java Swing components (JFrame, JPanel, JMenuBar) for a responsive desktop interface.
 
-## 📸 Screenshots
-
-*(You can add screenshots of your game here later)*
 
 ## 🛠️ Tech Stack
 
